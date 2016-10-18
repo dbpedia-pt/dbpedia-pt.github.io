@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "DBpedia no Google Summer of Code 2016"
+date:   2016-03-01 11:44:06 -0300
+comments: true
+categories: GSoC2016
+resume: "O GSoC está para começar e a DBpedia irá participar novamente no GSOC 2016. Então para os professores [...]"
+---
+O GSoC está para começar e a DBpedia irá participar novamente no GSOC 2016. Então para os professores que tem projetos open source, e para os alunos que querem se ocupar no inverno e aprender mais enquanto recebem uma bolsa do Google, esta é a sua chance.
+
+Para mais informações, acesse o link [GSoC 2016](http://wiki.dbpedia.org/gsoc2016){:target="_blank"}
+

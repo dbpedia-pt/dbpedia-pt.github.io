@@ -1,0 +1,390 @@
+<html>
+
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app13.us.archive.org";archive_analytics.values.server_ms=664;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+<title>Caso de Uso: Tema Educa&ccedil;&atilde;o</title>
+
+<body>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://pt.dbpedia.org/demo/exemplos/educacao.html";
+
+var firstYear = 1996;
+var displayDay = "28";
+var displayMonth = "Feb";
+var displayYear = "2012";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://pt.dbpedia.org/demo/exemplos/educacao.html" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20120228005259" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    Jan
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 0:52:59 Feb 28, 2012">FEB</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20140806081315/http://pt.dbpedia.org/demo/exemplos/educacao.html" title="6 Aug 2014"><strong>AUG</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                       <img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" />
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 0:52:59 Feb 28, 2012">28</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20140806081315/http://pt.dbpedia.org/demo/exemplos/educacao.html" title="8:13:15 Aug 6, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2011
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 0:52:59 Feb 28, 2012">2012</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20140806081315/http://pt.dbpedia.org/demo/exemplos/educacao.html" title="6 Aug 2014"><strong>2014</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20120228005259*/http://pt.dbpedia.org/demo/exemplos/educacao.html" title="See a list of every capture for this URL">4 captures</a>
+           <div class="r" title="Timespan for captures of this URL">28 Feb 12 - 4 Oct 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:1:010000000000_2013:-1:000000000000_2014:-1:000000010000_2015:-1:000000001100_2016:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+<h1>Introdu&ccedil;&atilde;o</h1>
+<div>
+Este &eacute; um pequeno exerc&iacute;cio para demonstrar a utilidade do conceito de Dados Ligados (Linked Data) como base para o compartilhamento de dados (governamentais) abertos. 
+Nosso caso de uso &eacute; o da avalia&ccedil;&atilde;o do envolvimento de representantes do povo brasileiro na solu&ccedil;&atilde;o de problemas eminentes em sua regi&atilde;o de origem.
+Tomamos como exemplo a educa&ccedil;&atilde;o, e buscamos pol&iacute;ticos que vem de estados com alto &iacute;ndice de analfabetismo e que envolvem-se com projetos relacionados &agrave; educa&ccedil;&atilde;o.
+O &iacute;ndice de analfabetismo &eacute; extra&iacute;do da Wikipedia pelo projeto <a href="/web/20120228005259/http://pt.dbpedia.org/">DBpedia PT</a>, enquanto as vota&ccedil;&otilde;es de pol&iacute;ticos s&atilde;o obtidas do projeto <a href="/web/20120228005259/http://ligadonospoliticos.com.br/">Ligado Nos Pol&iacute;ticos</a>.
+Os dois conjuntos de dados foram baixados em RDF e carregados em <a href="/web/20120228005259/http://pt.dbpedia.org/sparql">http://pt.dbpedia.org/sparql</a> onde voc&ecirc; pode executar as consultas abaixo.
+</div>
+<div>
+<i>
+Observa&ccedil;&atilde;o: este &eacute; um exemplo ilustrativo constru&iacute;do sobre conjuntos de dados incompletos (em desenvolvimento) e pass&iacute;veis de erros. 
+As informa&ccedil;&otilde;es aqui contidas n&atilde;o devem ser utilizadas, a n&atilde;o ser por seu car&aacute;ter ilustrativo t&eacute;cnico (tecnologias utilizadas, tipos de consultas poss&iacute;veis). Conclus&otilde;es sobre os dados devem ser obtidas diretamente das fontes oficiais.
+</i>
+</div>
+
+
+<h1>Ligado Nos Pol&iacute;ticos</h1>
+
+H&aacute; ~450 proposi&ccedil;&otilde;es com men&ccedil;&otilde;es &agrave; palavra "educa&ccedil;&atilde;o" na ementa.
+<span class="todo">TODO: Idealmente n&atilde;o usar&iacute;amos somente a palavra "educa&ccedil;&atilde;o", mas identificar&iacute;amos o t&oacute;pico da ementa (ex: incluindo sin&ocirc;nimos e outras palavras relacionadas).</span>
+
+<pre class="prefixes">
+PREFIX dbpedia-owl: &lt;http://dbpedia.org/ontology/&gt;
+PREFIX dbpprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX polbr: &lt;http://ligadonospoliticos.com.br/politicobr/&gt;
+PREFIX dcterms: &lt;http://purl.org/dc/terms/&gt;
+PREFIX foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+</pre>
+<pre class="queries">
+SELECT * WHERE {  
+   ?proposicao rdf:type polbr:proposicao.
+   ?proposicao dcterms:description ?ementa
+   FILTER regex(?ementa, "educa&ccedil;&atilde;o","i")
+}
+</pre>
+
+Mas n&atilde;o h&aacute; liga&ccedil;&otilde;es (diretas) entre pol&iacute;ticos e &agrave;s proposi&ccedil;&otilde;es.
+
+<pre class="prefixes">
+PREFIX dbpedia-owl: &lt;http://dbpedia.org/ontology/&gt;
+PREFIX dbpprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX polbr: &lt;http://ligadonospoliticos.com.br/politicobr/&gt;
+PREFIX dcterms: &lt;http://purl.org/dc/terms/&gt;
+PREFIX foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+</pre>
+<pre class="queries">
+SELECT * WHERE {  
+   ?politico a dbpedia-owl:Politician .
+   ?politico ?rel ?proposicao .
+   ?proposicao rdf:type polbr:proposicao.
+}
+</pre>
+
+Somente atrav&eacute;s de votos:
+
+<pre class="prefixes">
+PREFIX dbpedia-owl: &lt;http://dbpedia.org/ontology/&gt;
+PREFIX dbpprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX polbr: &lt;http://ligadonospoliticos.com.br/politicobr/&gt;
+PREFIX dcterms: &lt;http://purl.org/dc/terms/&gt;
+PREFIX foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+</pre>
+<pre class="queries">
+SELECT ?politician ?proposicao WHERE { 
+   ?voto polbr:politician ?politician .
+   ?voto polbr:voting ?votacao . 
+   ?votacao polbr:proposition ?proposicao .
+   ?proposicao rdf:type polbr:proposicao.
+}
+</pre>
+
+
+<h1>DBpedia PT</h1>
+
+H&aacute; 3 estados com &iacute;ndice de analfabetismo maior que 20% (mais de 20% da popula&ccedil;&atilde;o &eacute; analfabeta).
+
+<pre class="prefixes">
+PREFIX dbpedia-owl: &lt;http://dbpedia.org/ontology/&gt;
+PREFIX dbpprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX polbr: &lt;http://ligadonospoliticos.com.br/politicobr/&gt;
+PREFIX dcterms: &lt;http://purl.org/dc/terms/&gt;
+PREFIX foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+</pre>
+<pre class="queries">
+SELECT DISTINCT ?estado ?analfabetismo WHERE {  
+   ?estado dbpprop:analfabetismo ?analfabetismo .
+   ?estado dbpprop:nome ?nome .
+   FILTER (?analfabetismo &gt; 20)
+}
+</pre>
+
+Al&eacute;m de analfabetismo, h&aacute; v&aacute;rios outros indicadores que podem ser utilizados via DBpedia PT. 
+Mas vamos um passo de cada vez.
+
+<h1>Unindo dados do Ligado Nos Pol&iacute;ticos com a DBpedia PT</h1>
+
+H&aacute; 10 pol&iacute;ticos nascidos em estados com alto analfabetismo. 
+<span class="todo">TODO: Idealmente substituir&iacute;amos o link de "nascido" por um link de "eleito por".</span>
+
+<pre class="prefixes">
+PREFIX dbpedia-owl: &lt;http://dbpedia.org/ontology/&gt;
+PREFIX dbpprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX polbr: &lt;http://ligadonospoliticos.com.br/politicobr/&gt;
+PREFIX dcterms: &lt;http://purl.org/dc/terms/&gt;
+PREFIX foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+</pre>
+<pre class="queries">
+SELECT DISTINCT ?politico ?estado WHERE {  
+   ?politico a dbpedia-owl:Politician .
+   ?politico dbpedia-owl:birthPlace ?estado .
+   ?estado dbpprop:analfabetismo ?analfabetismo .
+   ?estado dbpprop:nome ?nome .
+   FILTER (?analfabetismo &gt; 20)
+}
+</pre>
+
+Ent&atilde;o podemos executar a consulta unindo as partes:
+
+<pre class="prefixes">
+PREFIX dbpedia-owl: &lt;http://dbpedia.org/ontology/&gt;
+PREFIX dbpprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX polbr: &lt;http://ligadonospoliticos.com.br/politicobr/&gt;
+PREFIX dcterms: &lt;http://purl.org/dc/terms/&gt;
+PREFIX foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+</pre>
+<pre class="queries">
+SELECT DISTINCT ?politico ?estado ?analfabetismo WHERE {  
+   ?politico a dbpedia-owl:Politician .
+   ?politico dbpedia-owl:birthPlace ?estado .
+   ?estado dbpprop:analfabetismo ?analfabetismo .
+   ?estado dbpprop:nome ?nome .
+   ?voto polbr:politician ?politician .
+   ?voto polbr:voting ?votacao . 
+   ?votacao polbr:proposition ?proposicao .
+   ?proposicao rdf:type polbr:proposicao.
+   ?proposicao dcterms:description ?ementa
+   FILTER (?analfabetismo &gt; 20)
+   FILTER regex(?ementa, "educa&ccedil;&atilde;o","i")
+}
+</pre>
+
+O que nos d&aacute; 10 pol&iacute;ticos, ou seja, 100% dos que achamos no come&ccedil;o.
+
+Olhando os resultados dessa consulta, pensei que seria interessante incluir mais uma vari&aacute;vel (fim do mandato do pol&iacute;tico).
+
+<pre class="prefixes">
+PREFIX dbpedia-owl: &lt;http://dbpedia.org/ontology/&gt;
+PREFIX dbpprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX polbr: &lt;http://ligadonospoliticos.com.br/politicobr/&gt;
+PREFIX dcterms: &lt;http://purl.org/dc/terms/&gt;
+PREFIX foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+</pre>
+<pre class="queries">
+SELECT DISTINCT ?politico ?estado ?analfabetismo ?mandato_fim WHERE {  
+   ?politico a dbpedia-owl:Politician .
+   ?politico dbpedia-owl:birthPlace ?estado .
+   ?estado dbpprop:analfabetismo ?analfabetismo .
+   ?estado dbpprop:nome ?nome .
+   ?voto polbr:politician ?politician .
+   ?voto polbr:voting ?votacao . 
+   ?votacao polbr:proposition ?proposicao .
+   ?proposicao rdf:type polbr:proposicao.
+   ?proposicao dcterms:description ?ementa .
+   ?politico dbpprop:mandatoFim ?mandato_fim .
+   FILTER (?analfabetismo &gt; 20)
+   FILTER regex(?ementa, "educa&ccedil;&atilde;o","i")
+}
+</pre>
+
+O que nos leva &agrave;s seguintes datas: 1891,1894,1914,1922,1945,1954,1964,1969,1974,1979.
+Ser&aacute; que ap&oacute;s 1979 todos os pol&iacute;ticos mantiveram suas liga&ccedil;&otilde;es &agrave;s ra&iacute;zes?
+E ser&aacute; que esses pol&iacute;ticos eram de quais partidos? Fa&ccedil;a um exerc&iacute;cio voc&ecirc; mesmo. Tente usar a propriedade <code>dbpedia-owl:party</code> em vez de <code>dbprop:mandatoFim</code> e veja os resultados!
+
+<h1>Conclus&otilde;es</h1>
+<div>A base de dados atualmente est&aacute; incompleta. No final das contas, n&atilde;o podemos tirar muitas conclus&otilde;es dos dados acima. Mas h&aacute; volunt&aacute;rios trabalhando na extra&ccedil;&atilde;o de dados como estes (vide <a href="/web/20120228005259/http://thacker.com.br/">Transpar&ecirc;ncia Hacker</a>, <a href="/web/20120228005259/http://votenaweb.com.br/">Vote Na Web</a>, <a href="/web/20120228005259/http://ligadonospoliticos.com.br/">Ligado Nos Politicos</a>, etc.) que possibilitar&atilde;o an&aacute;lises interessantes do relacionamento entre o povo e seus representantes no poder.</div>
+<p>&nbsp;</p>
+</body>
+</html>
+
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 0:52:59 Feb 28, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:51:47 Apr 17, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

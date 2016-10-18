@@ -1,0 +1,11 @@
+# Site settings
+title: DBpedia Português
+email: dbpedia-portuguese@lists.sourceforge.net
+description: DBpedia Português é um projeto de internacionalização da DBpedia para a comunidade Lusofona.
+url: "http://pt-dbpedia.github.io/" # the base hostname & protocol for your site
+twitter_username: dbpedia_pt
+github_username:  dbpedia-pt
+
+# Build settings
+markdown: kramdown
+layout: default
