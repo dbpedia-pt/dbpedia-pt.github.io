@@ -18,13 +18,13 @@ Podemos ainda adicionar a este dilúvio problemas como licenças restritivas, n�
 
 Interessado e não sabe por onde começar? 
 
-O instituto alemão Hasso Plattner Institute (HPI) através da sua plataforma openHPI está oferecendo o curso Linked Data Engineering. A curso inicia dia 17 de Outubro 2016 e vai até o dia 12 de Dezembro 2016
+O instituto alemão [Hasso Plattner Institute - HPI](https://hpi.de/) através da sua plataforma [openHPI](http://open.hpi.de) está oferecendo o curso Linked Data Engineering. A curso inicia dia 17 de Outubro 2016 e vai até o dia 12 de Dezembro 2016
 
 
 Idioma: Inglês
 
-Professor Dr.Harald Sack do departamento de  Information Services Engineering at FIZ Karlsruhe - Leibniz Institute for Information Infrastructure do Karlsruhe Institute of Technology
+[Professor Dr.Harald Sack](https://hpi.de/meinel/lehrstuhl/team-fotos/senior-researcher/sack.html) do departamento de  Information Services Engineering no FIZ Karlsruhe - Leibniz Institute for Information Infrastructure do Karlsruhe Institute of Technology
 
 Requisitos: Conhecimentos básicos em TI.
 
-Ainda dá tempo de se inscrever.
+Ainda dá tempo de se inscrever: [http://open.hpi.de](http://open.hpi.de)
