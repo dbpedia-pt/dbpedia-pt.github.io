@@ -18,7 +18,7 @@ Podemos ainda adicionar a este dilúvio problemas como licenças restritivas, n�
 
 Interessado e não sabe por onde começar? 
 
-O instituto alemão [Hasso Plattner Institute - HPI](https://hpi.de/) através da sua plataforma [openHPI](http://open.hpi.de) está oferecendo o curso Linked Data Engineering. A curso inicia dia 17 de Outubro 2016 e vai até o dia 12 de Dezembro 2016
+O instituto alemão [Hasso Plattner Institute - HPI](https://hpi.de/) através da sua plataforma [openHPI](http://open.hpi.de) está oferecendo o curso Linked Data Engineering. O curso inicia dia 17 de Outubro 2016 e vai até o dia 12 de Dezembro 2016
 
 
 Idioma: Inglês
