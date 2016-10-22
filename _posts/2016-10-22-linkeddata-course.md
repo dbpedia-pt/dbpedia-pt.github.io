@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linked Data Engineering"
+title:  "Curso no openHPI - Linked Data Engineering"
 date:   2016-10-22 19:32:00 -0300
 comments: true
 categories: releases
