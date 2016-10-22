@@ -27,4 +27,6 @@ Idioma: Inglês
 
 Requisitos: Conhecimentos básicos em TI.
 
-Ainda dá tempo de se inscrever: [http://open.hpi.de](http://open.hpi.de)
+Investimento: gratuito
+
+Ainda dá tempo de se inscrever através do site [http://open.hpi.de](http://open.hpi.de) 
