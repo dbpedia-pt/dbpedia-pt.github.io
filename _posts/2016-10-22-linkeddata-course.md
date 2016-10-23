@@ -12,7 +12,7 @@ office: DBpedia Português - Brasil
 Estamos rodeados de dados em todos os lugares. Para nos ajudar a tomar melhores decisões, dados desempenham um papel central em nossas vidas. 
 
 Um número cada vez maior de dados, gerados por indivíduos ou por organizações, ao serem compartilhados, gera o que podemos denominar de dilúvio de dados.
-Podemos ainda adicionar a este dilúvio problemas como licenças restritivas, não serem confiáveis ou mesmo serem distribuidos através de APIs que restrigem a utilização otimizada deles.
+Podemos ainda adicionar a este dilúvio problemas como licenças restritivas, dados não confiáveis ou mesmo serem distribuidos através de APIs que restrigem a utilização otimizada deles.
 
 "Linked Data" ou Dados Ligados tem o potencial de revolucionar a forma como descobrimos, acessamos, integramos e consumimos estes dados, sendo o caminho que a world Wide Web adota para revolucionar nossa forma de consumir e interconectar dados...
 
