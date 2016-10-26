@@ -70,7 +70,6 @@
 		"ContextCollection": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#ContextCollection",
 		"ContextHashBasedString": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#ContextHashBasedString",
 		"Structure": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Structure",
-		"$oc.name": "$oc.uri",
 		"URIScheme": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#URIScheme",
 		"Title": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Title",
 		"Context": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#Context",
