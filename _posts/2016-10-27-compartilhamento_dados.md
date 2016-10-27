@@ -3,7 +3,7 @@ layout: post
 title:  "A Importância da criação de um senso comum de boas práticas para o uso de compartilhamento de dados na web"
 date:   2016-10-27 09:51:00 -0300
 comments: true
-categories: conferencias
+categories: qualidade
 resume: "A utilização de recursos naturais tem sido um grande desafio para o século XXI. Como conciliar o desenvolvimento industrial [...]"
 author: Deisi Pereira
 office: DBpedia Português - Brasil
