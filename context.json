@@ -77,6 +77,7 @@
 		"oliaCategory": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#oliaCategory",
 		"classAnnotation": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#classAnnotation",
 		"category": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#category",
-		"annotationUnit": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#annotationUnit"
+		"annotationUnit": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#annotationUnit",
+		"graph": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#graph"
 	}
 }
