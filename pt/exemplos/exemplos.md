@@ -24,7 +24,7 @@ Por exemplo, para encontrar todos os presidentes que tem como religião o catoli
       ?presidente dbpedia-owl:religion <http://pt.dbpedia.org/resource/Catolicismo> .
     }
 
-<form method="GET" action="http://sparql.dbpedia.pt">
+<form method="GET" action="http://pt.dbpedia.org/sparql">
 <input type="hidden" name="query" value=" PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
     PREFIX dbpedia-owl:<http://dbpedia.org/ontology/> SELECT DISTINCT ?presidente WHERE { ?presidente a dbpedia-owl:President .  ?presidente dbpedia-owl:religion <http://pt.dbpedia.org/resource/Catolicismo> .  } " />
 <input type="submit" value="Executar" /> 
