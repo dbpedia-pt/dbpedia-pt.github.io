@@ -11,12 +11,7 @@ permalink: /sobre
        
 * Mirror 1: [http://pt.dbpedia.org/sparql](http://pt.dbpedia.org/sparql){:target="_blank"}
        
-* Mirror 2: [http://sparql.dbpedia.pt](http://sparql.dbpedia.pt){:target="_blank"}
        
-### DBpedia Spotlight:
-
-* Mirror 1: [http://spotlight.dbpedia.pt](http://spotlight.dbpedia.pt){:target="_blank"}
-
 ---------------------
 
 
