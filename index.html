@@ -76,7 +76,7 @@ layout: default
 						<center><hr class="border"/></center>
 					</div>
 						<div class="col-sm-9">
-							{% for post in site.posts %}
+							{% for post in site.posts limit: 8 %}
 							   <div class="content-box col-md-6 col-xs-12">
 									<div class="section_title2">
 										<h6>{{ post.date | date: "%b %-d, %Y" }}</h6>
