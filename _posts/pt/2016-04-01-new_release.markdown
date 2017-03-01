@@ -5,6 +5,7 @@ date:   2016-04-01 09:40:00 -0300
 comments: true
 categories: releases
 resume: "Temos orgulho em apresentar a nova versão da DBpedia: 2015-10. Ela está disponível agora no nosso triple store [...]"
+lang: pt
 ---
 
 Temos orgulho em apresentar a nova versão da DBpedia: 2015-10. Ela está disponível agora no nosso triple store [http://dbpedia.org/sparql](http://dbpedia.org/sparql){:target="_blank"}.

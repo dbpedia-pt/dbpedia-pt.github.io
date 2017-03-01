@@ -7,6 +7,7 @@ categories: conferencias
 resume: "A utilização de recursos naturais tem sido um grande desafio para o século XXI. Como conciliar o desenvolvimento industrial [...]"
 author: Deisi Pereira
 office: DBpedia Português - Brasil
+lang: pt
 ---
 
 A utilização de recursos naturais tem sido um grande desafio para o século XXI. Como conciliar o desenvolvimento industrial com a utilização sustentável de recursos e reservas naturais? Uma boa saída para resolver esse dilema tem sido a utilização de dados como instrumento de pesquisas que apontem os problemas em números quantitativos, através da identificação, reunião, tratamento, análise e apresentação das informações, de forma a dinamizar e proporcionar de forma eficaz as ações de preservação sobre as áreas afetadas. 

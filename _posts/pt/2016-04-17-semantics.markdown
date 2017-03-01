@@ -5,6 +5,7 @@ date:   2016-04-17 13:32:00 -0300
 comments: true
 categories: conferencias
 resume: "A conferência anual sobre web semântica é o ponto de encontro para os profissionais discutirem seus benefícios, avanços e limitações [...]"
+lang: pt
 ---
 
 A conferência anual sobre web semântica é o ponto de encontro para os profissionais discutirem seus benefícios, avanços e limitações.

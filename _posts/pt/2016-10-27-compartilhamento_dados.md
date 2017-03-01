@@ -7,6 +7,7 @@ categories: qualidade
 resume: "A utilização de recursos naturais tem sido um grande desafio para o século XXI. Como conciliar o desenvolvimento industrial [...]"
 author: Deisi Pereira
 office: DBpedia Português - Brasil
+lang: pt
 ---
 
 Vivemos em um mundo de territórios fragmentados, todavia, através do viés da globalização, a articulação da comunicação através de redes sociais e outros sistemas de compartilhamento de dados digitais tem propiciado um acesso à informação que se faz de forma ampla, apesar das inúmeras restrições que alguns países ainda enfrentam, como podemos constatar em um relatório divulgado pela [“organização independente ‘Freedom House’, que analisou a situação em 65 países – que acolhem 88% dos usuários da Internet em todo o mundo”](http://brasil.elpais.com/brasil/2015/10/27/internacional/1445950130_429095.html). O estudo revela ainda a forte restrição que os Governos tentam imprimir, censurando informações de interesse geral e em comunhão com o setor privado, que trabalha no sentido de remover conteúdos considerados com teor “ameaçador”. 

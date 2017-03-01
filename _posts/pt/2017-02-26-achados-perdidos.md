@@ -7,6 +7,7 @@ categories: okfn-br
 resume: "O Projeto Achados e Pedidos é um projeto realizado pela Transparência Brasil e pela Abraji "
 author: Sandro Coelho
 office: DBpedia Português - Brasil
+lang: pt
 ---
 
 Oi pessoal, tudo bem?

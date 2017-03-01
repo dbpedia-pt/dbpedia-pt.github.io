@@ -7,6 +7,7 @@ categories: releases
 resume: "Estamos rodeados de dados em todos os lugares. Para  nos ajudar a tomar melhores decisões, dados desempenham um papel central em nossas vidas[...]"
 author: Sandro A. Coelho
 office: DBpedia Português - Brasil
+lang: pt
 ---
 
 Estamos rodeados de dados em todos os lugares. Para nos ajudar a tomar melhores decisões, dados desempenham um papel central em nossas vidas. 
