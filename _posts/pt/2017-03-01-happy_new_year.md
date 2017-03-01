@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "(Belated) Happy New Year to all DBpedians!"
-date:   2017-02-28 13:16:00 -0300
+date:   2017-03-03 19:00:00 -0300
 comments: true
 categories: dbpedia
 resume: "We are a proud to look retrospectively at a successful year 2016 and would like to welcome 2017 with our new newsletter (~4 times per year), which will allow you to stay up to date and provide feedback, e.g. via the included ..."
