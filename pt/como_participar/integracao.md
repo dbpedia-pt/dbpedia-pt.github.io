@@ -26,5 +26,5 @@ O quarto passo pode ser ver quais sobreposições já existem entre os dados que
 
 Finalmente, faça alguns testes. Considere utilizar o Silk, R2R, [Linked Data Integration Framework (LDIF)](http://ldif.wbsg.de/){:target="_blank"} ou outra ferramenta existente. Os resultados de uma tarefa de integração de dados no contexto de RDF são uma série de links <code>owl:sameAs</code>, <code>skos:exactMatch</code>, <code>owl:equivalentClass</code>, <code>rdfs:subclassOf</code> e outras propriedades relacionadas.
 
-Para mais informações, veja: <a href="http://wiki.dbpedia.org/Interlinking">Interlinking</a> (em inglês)
+Para mais informações, veja: <a href="http://wiki.dbpedia.org/services-resources/interlinking">Interlinking</a> (em inglês)
 
