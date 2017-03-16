@@ -7,6 +7,7 @@ categories: dbpedia
 resume: "We are a proud to look retrospectively at a successful year 2016 and would like to welcome 2017 with our new newsletter (~4 times per year), which will allow you to stay up to date and provide feedback, e.g. via the included ..."
 author: Sebastian Hellmann
 office: DBpedia - Germany
+lang: en
 ---
 
 ### (Belated) Happy New Year to all DBpedians!

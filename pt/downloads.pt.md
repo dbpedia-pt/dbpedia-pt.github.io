@@ -2,6 +2,7 @@
 layout: page
 title: Downloads
 permalink: /downloads/
+lang: pt
 ---
 
 ## Dados

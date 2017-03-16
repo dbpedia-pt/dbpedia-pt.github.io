@@ -2,6 +2,7 @@
 layout: page
 title: Documentação
 permalink: /como_participar/documentacao/
+lang: en
 ---
 
 

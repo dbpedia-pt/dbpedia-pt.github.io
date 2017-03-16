@@ -14,8 +14,8 @@ layout: default
 				<div class="col-xs-12 col-sm-12 col-md-12">
 					<div class="col-sm-9">
 						<div class="call-text">
-							<h3>A Wikipedia como sua fonte de informações</h3>
-							<p>Rumo a uma Infra-estrutura de dados públicos universal, multilingue, semântica</p>
+							<h3>{{site.wikipedia[site.active_lang]}}</h3>
+							<p>{{site.dbpedia[site.active_lang]}}</p>
 						</div>
 					</div>
 					<div class="col-sm-3 ">
@@ -30,7 +30,7 @@ layout: default
 				<div class="container">
 					<div class="row ">
 						<div class="title-home col-md-12">
-							<h3>NOTÍCIAS</h3>
+							<h3>{{ site.noticias[site.active_lang]}}</h3>
 							<center><hr class="border"/></center>
 						</div>
 					</div>
@@ -47,7 +47,7 @@ layout: default
 										<p>
 										{{ post.resume }}
 										</p>
-										<a class="btn-more" href="{{ post.url | prepend: site.baseurl }}">SAIBA MAIS</a>
+										<a class="btn-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.saiba_mais[site.active_lang]}}</a>
 									</div>
 								</div> 
 							     {% assign counter = counter | plus: 1 %}
@@ -65,17 +65,17 @@ layout: default
 					<div class="row">
 						  <div class="col-md-2">
 							  {% if paginator.previous_page %}
-							    <a href="{{ paginator.previous_page_path }}" class="prev">Anterior</a>
+							    <a href="{{ paginator.previous_page_path }}" class="prev">{{ site.anterior[site.active_lang]}}</a>
 							  {% else %}
-							    <span class="prev">Anterior</span>
+							    <span class="prev">{{ site.anterior[site.active_lang]}}</span>
 							  {% endif %}
 		                                 </div>
-		                                 <div class="col-md-1"> {{ paginator.page }} de {{ paginator.total_pages }}</div>
+		                                 <div class="col-md-1"> {{ paginator.page }} {{ site.de[site.active_lang]}} {{ paginator.total_pages }}</div>
 						<div class="col-md-2">
 						  {% if paginator.next_page %}
-						    <a href="{{ paginator.next_page_path }}" class="next">Próximo</a>
+						    <a href="{{ paginator.next_page_path }}" class="next">{{ site.proximo[site.active_lang]}}</a>
 						  {% else %}
-						    <span class="next">Próximo</span>
+						    <span class="next">{{ site.proximo[site.active_lang]}}</span>
 						  {% endif %}
 						</div>
   						 <div class="col-md-7"></div>

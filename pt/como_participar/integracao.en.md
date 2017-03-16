@@ -2,6 +2,7 @@
 layout: page
 title: Integração de Dados
 permalink: /como_participar/integracao
+lang: en
 ---
 
 

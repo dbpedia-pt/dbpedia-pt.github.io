@@ -14,6 +14,102 @@ languages: ["en", "pt"]
 default_lang: "pt"
 exclude_from_localization: ["javascript", "images", "css", "public"]
 
+dbpedia:
+  en: Towards a Public Data Infrastructure for a Large, Multilingual, Semantic Knowledge Graph
+  pt: Rumo a uma Infra-estrutura de dados públicos universal, multilingue, semântica
+
+wikipedia:
+  en: A Knowledge Base Extracted from Wikipedia
+  pt: A Wikipedia como sua fonte de informações
+
+noticias:
+  en: NEWS
+  pt: NOTÍCIAS
+
+descricao:
+  en: DBpedia Portuguese is an internationalization project of DBpedia for the Lusophone community. All DBpedia software is Open Source and can be directly reused in your company projects. The same goes for the data generated
+  pt: DBpedia Português é um projeto de internacionalização da DBpedia para a comunidade Lusofona. Todo o software da DBpedia é Open Source e pode ser diretamente reutilizado nos projetos da sua empresa. O mesmo vale para os dados gerados.
+
+titulo:
+  en: DBpedia Portuguese
+  pt: DBpedia Português
+
+fundadores:
+  en: FOUNDERS
+  pt: FUNDADORES
+
+colaboradores:
+  en: ACTIVE CONTRIBUTORS
+  pt: COLABORADORES ATIVOS
+
+hospedagem:
+  en: HOSTING
+  pt: HOSPEDAGEM
+
+licenca:
+  en: DBpedia Portuguese 2007 - 2017. This website is distributed under license
+  pt: DBpedia Português 2007 - 2017. Este website é distribuido livremente sob a licença
+
+anterior:
+  en: Previous
+  pt: Anterior
+
+proximo:
+  en: Next
+  pt: Próximo
+
+de:
+  en: of
+  pt: de
+
+saiba_mais:
+  en: GET MORE
+  pt: SAIBA MAIS
+
+o_que_e:
+  en: ABOUT
+  pt: O QUE É
+
+empresas:
+  en: FOR YOUR COMPANY
+  pt: PARA EMPRESAS
+
+pesquisadores:
+  en: FOR RESEARCHERS
+  pt: PARA PESQUISADORES
+
+participar:
+  en: GET INVOLVED
+  pt: COMO PARTICIPAR
+
+documentacao:
+  en: DOCS
+  pt: DOCUMENTAÇÃO
+
+qualidade:
+  en: QUALITY
+  pt: QUALIDADE
+
+integracao:
+  en: DATA INTEGRATION
+  pt: INTEGRAÇÃO
+
+sobre:
+  en: ABOUT
+  pt: SOBRE
+
+exemplos:
+  en: EXAMPLES
+  pt: EXEMPLOS
+
+download:
+  en: DOWNLOAD
+  pt: DOWNLOAD
+
+contato:
+  en: CONTACT
+  pt: CONTATO
+
 
 
 # Build settings

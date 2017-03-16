@@ -2,7 +2,7 @@
 layout: page
 title: Avaliação de Qualidade
 permalink: /como_participar/qualidade
-lang: pt
+lang: en
 ---
 
 

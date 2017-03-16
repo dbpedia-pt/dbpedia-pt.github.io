@@ -2,6 +2,7 @@
 layout: page
 title: O que é?
 permalink: /o_que_e/
+lang: en
 ---
 
 O que é?

@@ -2,6 +2,7 @@
 layout: page
 title: Sobre
 permalink: /sobre
+lang: en
 ---
 
 ## Serviços

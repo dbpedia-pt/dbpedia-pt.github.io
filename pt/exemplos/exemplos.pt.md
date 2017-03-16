@@ -2,6 +2,7 @@
 layout: page
 title: Exemplos
 permalink: /exemplos/
+lang: pt
 ---
 
 Nesta página nós vamos demonstrar várias formas de se interagir com a DBpedia, assim como descrever algumas aplicações que se beneficiaram dos dados da DBpedia Português.

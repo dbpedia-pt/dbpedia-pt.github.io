@@ -2,6 +2,7 @@
 layout: page
 title: Como Participar?
 permalink: /como_participar/
+lang: en
 ---
 
 Para ajudar a construir a versão em Português da DBpedia, o primeiro passo é entrar na nossa lista de [e-mails](https://lists.sourceforge.net/lists/listinfo/dbpedia-portuguese){:target="_blank"}. Envie uma mensagem de apresentação e diga-nos qual é o seu interesse na DBpedia. Se você quer ter uma ideia do trabalho que vem sendo desenvolvido, dê uma olhada nos nossos grupos de trabalho.
