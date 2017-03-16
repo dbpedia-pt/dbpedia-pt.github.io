@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DBpedia Português</title>
+    <description>DBpedia Português é um projeto de internacionalização da DBpedia para a comunidade Lusofona.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 16 Mar 2017 01:22:15 -0300</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2017 01:22:15 -0300</lastBuildDate>
+    <generator>Jekyll v3.4.2</generator>
+    
+      <item>
+        <title>(Belated) Happy New Year to all DBpedians!</title>
+        <description>&lt;h3 id=&quot;belated-happy-new-year-to-all-dbpedians&quot;&gt;(Belated) Happy New Year to all DBpedians!&lt;/h3&gt;
+
+&lt;p&gt;We are a proud to look retrospectively at a successful year 2016 and would like to welcome 2017 with our new newsletter (~4 times per year), which will allow you to stay up to date and provide feedback, e.g. via the included survey and the planned events in 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New members&lt;/strong&gt; - We kickstarted the DBpedia Association with a first wave of new members: OpenLink Software, Semantic Web Company, Ontotext, FIZ Karlsruhe, Mannheim University, Poznań University of Economics and Business, the Business Information Systems Institute Ltd and the Open Knowledge Foundation Greece joined the DBpedia Association in 2016. We created two web pages that summarize reasons to support DBpedia via donations and become a member.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DBpedia in Dutch &lt;a href=&quot;http://nl.dbpedia.org&quot;&gt;http://nl.dbpedia.org&lt;/a&gt;&lt;/strong&gt; is the first chapter which formalized an official DBpedia Chapter consortium. The cooperation was initiated by Koninklijke Bibliotheek (National Library of the Netherlands) and Huygens ING (research institute of History and Culture). Other partners like imec/Ghent University, the Netherlands Institute of Sound and Vision and the Network Institute (Vrije Universiteit) joined as well. This cooperation will strengthen the DBpedia Dutch chapter and community of contributors as well improve the cooperation with the Dutch research infrastructure and the Dutch Digital Heritage.&lt;/p&gt;
+
+&lt;p&gt;We are in intensive contact with the Japanese, the German and the Italian chapters to form official chapters and gain institutional support for DBpedia. You would like to know how to start a DBpedia chapter? Please check &lt;a href=&quot;http://wiki.dbpedia.org/about/language-chapters&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DBpedia Releases&lt;/strong&gt; - Since 2015 we provide bi-annual DBpedia releases. The latest one, 2016-04, featured a new Wikipedia references &amp;amp; citation dataset for the English Wikipedia. In addition, we separated the data which we received from heuristic-based infobox extractors from the already mapped and quality-controlled data to remove low quality data and avoid duplicates &amp;amp; low quality information. We improved on our Wikidata extraction and mapped all our data to Wikidata-based DBpedia IRIs. Wikidata will become more and more the core of future extractions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Consortium partners for EU and national projects&lt;/strong&gt; - Since its conception DBpedia has never been funded directly, but was supported only by individual tasks in different projects and by the spirit of volunteers. With the establishment of the DBpedia Association, we are now in a position to receive direct funding and are eligible as a full consortium partner for EU and International projects. Furthermore, we are able to mediate trusted partners - who have worked with us in the past and contributed greatly to DBpedia - for national proposals in over 30 countries worldwide (contact via reply to this email.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Events&lt;/strong&gt; - In addition to our participation in the 12th edition of the SEMANTiCS, in the 19th International Conference on Business Information Systems and in the Google Summer of Code project, we arranged three DBpedia community meetings, in The Hague, Leipzig and Sunnyvale, California. In order to get updates on our events and projects, stay tuned and check the DBpedia blog. Please check out the dates to the two new DBpedia meetings below.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt; - We have revived the portal, that allows the LOD community to contribute their links, so we can include them in DBpedia Releases. If your database links to DBpedia, you can submit your links &lt;a href=&quot;https://github.com/dbpedia/links&quot;&gt;here&lt;/a&gt; . We provide additional support for this and also provide a service, that - once you have contributed your links - will tell you which data is linking to your knowledge base via DBpedia &lt;a href=&quot;http://downloads.dbpedia.org/links/backlinks/&quot;&gt;http://downloads.dbpedia.org/links/backlinks/&lt;/a&gt;, available only for Association members.&lt;/p&gt;
+
+&lt;p&gt;We would like to thank again all people who were involved to enable this!&lt;/p&gt;
+
+&lt;h3 id=&quot;2017---new-year---new-opportunities&quot;&gt;2017 - New Year - New Opportunities&lt;/h3&gt;
+
+&lt;p&gt;To make 2017 as great as 2016 we have already reviewed community feedback and worked out some plans to bring the DBpedia community closer together whereas we attain our goals and follow our visions. Below are the most important points for 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;User Survey&lt;/strong&gt; - Sören Auer and the DBpedia Board prepared a survey to assess the direction of DBpedia and the DBpedia Association. We would like to know what you think should be our priorities. Please take a minute and vote &lt;a href=&quot;https://goo.gl/forms/NQxrMWskcKlZJAU63&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;User support&lt;/strong&gt; - We set up a new portal to streamline support requests for DBpedia. We would encourage you to submit all questions to &lt;a href=&quot;http://wiki.dbpedia.org/support&quot;&gt;http://wiki.dbpedia.org/support&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And … if you are already an experienced DBpedia user, you can sign up and answer questions and get kudos. Upon request, we can issue a certificate for your CV. During the course of 2017 we will also provide a priority support channel for members and Chapters.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Save the Date&lt;/strong&gt; - Galway 21 Jun and Amsterdam 14 Sep. DBpedia will be part of the Language, Data and Knowledge (LDK) conference in Galway, Ireland (Submission open until Feb 16th). This new biennial conference series aims at bringing together researchers from across disciplines. The DBpedia community will have a full day event on 21th of June 2017. Also during the SEMANTiCS 2017 in Amsterdam, Sep 11-14 (Submission open until May 17th or June 23rd), the DBpedia community will get together on the 14th of September for a DBpedia community meeting. Updates will be posted in the respective events section and the blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TextExt: DBpedia’s Open Text Extraction Challenge&lt;/strong&gt; - &lt;a href=&quot;http://wiki.dbpedia.org/textext&quot;&gt;http://wiki.dbpedia.org/textext&lt;/a&gt; As DBpedia and Wikidata currently focus primarily on representing factual knowledge as contained in Wikipedia infoboxes, we created the DBpedia Open Text Extraction Challenge. Participants are asked to submit their engines that extract facts and knowledge from Wikipedia article texts to dramatically broaden and deepen the amount of structured DBpedia/Wikipedia data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Community coordination&lt;/strong&gt; - You’d like to get involved in DBpedia? We set up a new Get Involved section. If you are interested in details or would like to get in touch with the DBpedia community, please read &lt;a href=&quot;http://wiki.dbpedia.org/get-involved&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Community chairs&lt;/strong&gt; - The active community of developers and engineers comes together in the DBpedia community committee. We will build up this committee with the help of Pablo Mendes and Magnus Knuth who will serve as provisional chairs. The committee can be joined by recommendation only based on merit. If you would like to get in contact with the community committee please check &lt;a href=&quot;http://wiki.dbpedia.org/about/contact&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Two delegates from the community committee are elected chairs and will take seats at the Board of Trustees. This board is the main decision-making body of the DBpedia Association and oversees the association and its work, as its ultimate corporate authority. There are four board meetings per year, please have a look at the public minutes &lt;a href=&quot;http://wiki.dbpedia.org/board-minutes&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technical development I: Wikidata&lt;/strong&gt; - Many DBpedians are excited about the progress Wikidata is making and we are planning to use Wikidata’s data as the new core for our extraction and fusion. This means that in future releases we will fuse data from Wikidata with the usual data we extract from over 100 Wikipedia language editions with additional data from other high quality LOD sources and do the usual refinement, typing and quality-control. We hope that this will provide an unprecedented knowledge graph with superior coverage, completeness and correctness.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technical development II: UnifiedViews&lt;/strong&gt; - our plan to achieve the above mentioned fusion will be realized by an active collaboration with the Semantic Web Company (SWC), where DBpedia developers work side by side with the PoolParty Semantic Suite technical team to add scalability, provenance tracking and linking/fusion capabilities into the Data Processing Units of the UnifiedViews workflows.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technical development III&lt;/strong&gt; - For 2017, we hope to establish further hands-on collaboration with companies and organisations to push all aspects of DBpedia, in particular: search and visualisation, ontology maintenance, querying and indexing crawling data from web and social media. We also work together with our members to prioritize on integrating data that they think useful.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Membership&lt;/strong&gt; - If you would like to become a member of the DBpedia Association, please check all benefits &lt;a href=&quot;http://wiki.dbpedia.org/membership&quot;&gt;here.&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you require any further information, feel free to contact us by replying to this email. We are already very excited to spend time with you on further community meetings and to publish new DBpedia releases.&lt;/p&gt;
+
+&lt;p&gt;All the best,&lt;/p&gt;
+
+&lt;p&gt;Julia, Dimitris &amp;amp; Sebastian&lt;/p&gt;
+
+&lt;p&gt;DBpedia Association&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Mar 2017 19:00:00 -0300</pubDate>
+        <link>http://localhost:4000/dbpedia/2017/03/03/happy_new_year.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dbpedia/2017/03/03/happy_new_year.html</guid>
+        
+        
+        <category>dbpedia</category>
+        
+      </item>
+    
+      <item>
+        <title>DBpedia  -GSOC  2017</title>
+        <description>&lt;p&gt;Queridos DBpedian(o)(a)s&lt;/p&gt;
+
+&lt;p&gt;Como nos anos anteriores, gostaríamos de sua contribuição para idéias de projeto relacionadas ao DBpedia para GSoC 2017.&lt;/p&gt;
+
+&lt;p&gt;Para aqueles que não estão familiarizados com GSoC (Google Summer of Code), o Google paga os alunos (BSc, MSc, PhD) para trabalhar por 3 meses em um projeto de código aberto. Organizações de código aberto anunciam seus projetos estudantis e estudantes se candidatam para projetos que gostam. Após uma fase de seleção, os alunos são combinados com um projeto específico e um conjunto de mentores para trabalhar no projeto durante o verão.&lt;/p&gt;
+
+&lt;p&gt;Você pode ver a cronologia do Google Summer of Code 2017 &lt;a href=&quot;https://developers.google.com/open-source/gsoc/timeline&quot;&gt;aqui&lt;/a&gt; ou &lt;a href=&quot;http://wiki.dbpedia.org/gsoc2016&quot;&gt;aqui&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Se você tem uma idéia legal para a DBpedia ou deseja ser um co-mentor em uma idéia cool existente, participe!  -  Todos os mentores obter uma camiseta do Google livre e ter a chance de ir Google HQs em novembro.&lt;/p&gt;
+
+&lt;p&gt;A DBpedia aplicou pela quinta vez para participar do programa Google Summer of Code. Você encontra uma lista de todos os projetos e estudantes da GSoC 2016 em &lt;a href=&quot;http://blog.dbpedia.org/2016/04/26/dbpedia-google-summer-of-code-2016/&quot;&gt;http://blog.dbpedia.org/2016/04/26/dbpedia-google-summer-of-code-2016/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Confira nosso site para mais atualizações, siga-nos em #twitter ou assine nosso boletim informativo.&lt;/p&gt;
+
+&lt;p&gt;Aguardamos ansiosos por suas contribuiçes,
+DBpedia Association&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Feb 2017 08:01:00 -0300</pubDate>
+        <link>http://localhost:4000/gsoc/2017/02/27/gsoc.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc/2017/02/27/gsoc.html</guid>
+        
+        
+        <category>gsoc</category>
+        
+      </item>
+    
+      <item>
+        <title>Achados e Pedidos</title>
+        <description>&lt;p&gt;Oi pessoal, tudo bem?&lt;/p&gt;
+
+&lt;p&gt;Escrevo convidar vocês para o lançamento do site Achados e Pedidos, dia 10 de março, das 9h30 às 12h - FGV Direito, R. Rocha, 233 - São Paulo.
+&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdoVxdGeFHS2z7LuwF5H4Vzfpu_387GH7wb-HhbnBIZ3yGKgw/viewform?c=0&amp;amp;w=1&quot;&gt;Inscrições neste formulário&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;O Achados e Pedidos é um projeto realizado pela Transparência Brasil e pela Abraji (Associação Brasileira de Jornalismo Investigativo), cuja principal atividade é a criação de um site que serve como repositório de pedidos de informação, suas respostas, recursos e anexos.&lt;/p&gt;
+
+&lt;p&gt;Qualquer pessoa pode pesquisar os pedidos por palavra-chave ou por órgão, e ter acesso à informação pública contida neles. Assim pretendemos facilitar o acesso. Além disso, as respostas podem ser classificadas pelos usuários cadastrados como satisfatórias ou não, o que permite calcular o nível de transparência de cada órgão a partir da taxa de resposta não satifatória, de não-resposta sem justificativa e de resposta fora do prazo. Diagnosticar os gargalos da transparência passiva é um passo importante na direção de melhorar o atendimento ao cidadão, na nossa visão.&lt;/p&gt;
+
+&lt;p&gt;Contatamos diversos órgãos públicos para obter a primeira leva de pedidos, entre eles a Controladoria Geral do Município de São Paulo, que nos enviou sua base de pedidos. Também fizemos parcerias com outras organizações da sociedade civil, que gentilmente enviaram os pedidos já realizados por elas. Há mais detalhes no release (http://abraji.org.br/?id=90&amp;amp;d_noticia=3736) sobre os parceiros, o evento e o projeto.&lt;/p&gt;
+
+&lt;p&gt;No envento de lançamento, primeiro faremos uma apresentação do projeto e do site, depois haverá uma mesa redonda com 3 jornalistas que usam a LAI frequentemente: o Leo Arcoverde do Fiquem Sabendo, o Rubens Valente da Folha de São Paulo e Philip Eil, jornalista estadunidense.&lt;/p&gt;
+
+&lt;p&gt;Além de fazer o convite, gostaria de pedir para vocês por favor divulgarem a quem possa interessar. Temos um evento no &lt;a href=&quot;https://www.facebook.com/events/1306371392787111/&quot;&gt;Facebook para o evento&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Obrigada!&lt;/p&gt;
+
+&lt;p&gt;Lia Logarezzi
+Transparência Brasil&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 Feb 2017 10:51:00 -0300</pubDate>
+        <link>http://localhost:4000/okfn-br/2017/02/26/achados-perdidos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/okfn-br/2017/02/26/achados-perdidos.html</guid>
+        
+        
+        <category>okfn-br</category>
+        
+      </item>
+    
+      <item>
+        <title>A Importância da criação de um senso comum de boas práticas para o uso de compartilhamento de dados na web</title>
+        <description>&lt;p&gt;Vivemos em um mundo de territórios fragmentados, todavia, através do viés da globalização, a articulação da comunicação através de redes sociais e outros sistemas de compartilhamento de dados digitais tem propiciado um acesso à informação que se faz de forma ampla, apesar das inúmeras restrições que alguns países ainda enfrentam, como podemos constatar em um relatório divulgado pela &lt;a href=&quot;http://brasil.elpais.com/brasil/2015/10/27/internacional/1445950130_429095.html&quot;&gt;“organização independente ‘Freedom House’, que analisou a situação em 65 países – que acolhem 88% dos usuários da Internet em todo o mundo”&lt;/a&gt;. O estudo revela ainda a forte restrição que os Governos tentam imprimir, censurando informações de interesse geral e em comunhão com o setor privado, que trabalha no sentido de remover conteúdos considerados com teor “ameaçador”.&lt;/p&gt;
+
+&lt;p&gt;O acesso à esse mapa está disponível em: &lt;a href=&quot;https://freedomhouse.org/report/freedom-net/freedom-net-2015&quot;&gt;https://freedomhouse.org/report/freedom-net/freedom-net-2015&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Baseados em informações do tipo e com a preocupação da utilização de dados públicos de forma responsável, o “Grupo de Trabalho (GT) Data on the Web Best Practices do W3C (World Wide Web Consortium), colocou em consulta pública um documento em inglês sobre &lt;a href=&quot;http://www.nic.br/noticia/na-midia/boas-praticas-para-dados-na-web-em-consulta-publica-pelo-w3c/&quot;&gt;“Boas Práticas para Dados na Web”&lt;/a&gt; (Disponível em: &lt;a href=&quot;https://www.w3.org/TR/dwbp/&quot;&gt;https://www.w3.org/TR/dwbp/&lt;/a&gt;)”.  O GT tem a participação de membros do Centro de Estudos sobre Tecnologias Web (Ceweb.br) do Núcleo de Informação e Coordenação do Ponto BR (NIC.br), que disponibilizou ainda um canal para a contribuição de interessados no tema: &lt;a href=&quot;https://www.w3.org/TR/vocab-dqv/&quot;&gt;https://www.w3.org/TR/vocab-dqv/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;O documento conta com assuntos relacionados à: Qualidade, formatos, vocabulários, formas de preservação, privacidade e publicação de dados sensíveis. O grupo conta com pesquisadores brasileiros, entre eles: Yasodara Córdova como co-chair, Caroline Burle e Newton Calegari, como editores, que dividem a função com Bernadette Farias Lóscio (&lt;a href=&quot;http://www.ufpe.br&quot;&gt;UFPE&lt;/a&gt;).&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Oct 2016 10:51:00 -0200</pubDate>
+        <link>http://localhost:4000/qualidade/2016/10/27/compartilhamento_dados.html</link>
+        <guid isPermaLink="true">http://localhost:4000/qualidade/2016/10/27/compartilhamento_dados.html</guid>
+        
+        
+        <category>qualidade</category>
+        
+      </item>
+    
+      <item>
+        <title>Curso online na plataforma openHPI - Linked Data Engineering</title>
+        <description>&lt;p&gt;Estamos rodeados de dados em todos os lugares. Para nos ajudar a tomar melhores decisões, dados desempenham um papel central em nossas vidas.&lt;/p&gt;
+
+&lt;p&gt;Um número cada vez maior de dados, gerados por indivíduos ou por organizações, ao serem compartilhados, gera o que podemos denominar de dilúvio de dados.
+Podemos ainda adicionar a este dilúvio problemas como licenças restritivas, dados não confiáveis ou mesmo serem distribuidos através de APIs que restrigem a utilização otimizada deles.&lt;/p&gt;
+
+&lt;p&gt;“Linked Data” ou Dados Ligados tem o potencial de revolucionar a forma como descobrimos, acessamos, integramos e consumimos estes dados, sendo o caminho que a world Wide Web adota para revolucionar nossa forma de consumir e interconectar dados…&lt;/p&gt;
+
+&lt;p&gt;Interessado e não sabe por onde começar?&lt;/p&gt;
+
+&lt;p&gt;O instituto alemão &lt;a href=&quot;https://hpi.de/&quot;&gt;Hasso Plattner Institute - HPI&lt;/a&gt; através da sua plataforma &lt;a href=&quot;http://open.hpi.de&quot;&gt;openHPI&lt;/a&gt; está oferecendo o curso Linked Data Engineering. O curso inicia dia 17 de Outubro 2016 e vai até o dia 12 de Dezembro 2016&lt;/p&gt;
+
+&lt;p&gt;Idioma: Inglês&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hpi.de/meinel/lehrstuhl/team-fotos/senior-researcher/sack.html&quot;&gt;Professor Dr.Harald Sack&lt;/a&gt; do departamento de  Information Services Engineering no FIZ Karlsruhe - Leibniz Institute for Information Infrastructure do Karlsruhe Institute of Technology&lt;/p&gt;
+
+&lt;p&gt;Requisitos: Conhecimentos básicos em TI.&lt;/p&gt;
+
+&lt;p&gt;Investimento: gratuito&lt;/p&gt;
+
+&lt;p&gt;Ainda dá tempo de se inscrever através do site &lt;a href=&quot;http://open.hpi.de&quot;&gt;http://open.hpi.de&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Oct 2016 20:32:00 -0200</pubDate>
+        <link>http://localhost:4000/releases/2016/10/22/linkeddata-course.html</link>
+        <guid isPermaLink="true">http://localhost:4000/releases/2016/10/22/linkeddata-course.html</guid>
+        
+        
+        <category>releases</category>
+        
+      </item>
+    
+      <item>
+        <title>Lançamento da versão 2016-04 da DBpedia</title>
+        <description>&lt;p&gt;A versão 2016-04 baseada nos dumps de Março/Abril de 2016 da Wikipedia acaba de ser lançada, contendo um significativo avanço na base de informações com dados mais ricos e (esperadamente) mais limpos, baseados na ontologia da DBpedia.&lt;/p&gt;
+
+&lt;p&gt;Você pode baixar o novo dataset da DBpedia numa variedade de formatos RDF através do site: &lt;a href=&quot;http://wiki.dbpedia.org/downloads-2016-04&quot;&gt;http://wiki.dbpedia.org/downloads-2016-04&lt;/a&gt; ou diretamente em  &lt;a href=&quot;http://downloads.dbpedia.org/2016-04/&quot;&gt;http://downloads.dbpedia.org/2016-04/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;ajude-a-dbpedia&quot;&gt;Ajude a DBpedia&lt;/h3&gt;
+
+&lt;p&gt;Durante a última reunião da DBpedia em Leipzig na Alemanha, nós &lt;a href=&quot;http://blog.dbpedia.org/?p=210&quot;&gt;discutimos formas de ajudar a DBpedia&lt;/a&gt; 
+e quais os &lt;a href=&quot;http://wiki.dbpedia.org/why-is-dbpedia-so-important&quot;&gt;benefícios que este apoio pode trazer&lt;/a&gt;. A prioridade hoje é comprar um novo servidor para o DBpedia Spotlight que atualmente é hospedado gentilmente por terceiros - Um especial obrigado ao &lt;a href=&quot;http://www.sztaki.hu&quot;&gt;Instituto de Computação da Academia de Ciências da Hungria&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se você utiliza a DBpedia e quer nos ajudar a manter este trabalho, convidamos gentilmente a fazer uma doação ou se tornar um membro da DBpedia association.&lt;/p&gt;
+
+&lt;h3 id=&quot;estatísticas&quot;&gt;Estatísticas&lt;/h3&gt;
+
+&lt;p&gt;A versão inglesa da base de conhecimento da DBpedia descreve atualmente 6.0M de entidades, dos quais 4.6M possuem resumos (abstracts), 1.53M possuem coordenadas geográficas, além 1.6M em imagens / fotos. No total, temos 5.2M de recursos classificados em uma ontologia consistente, contendo 1.5M descrições de pessoas, 810K descrições de lugares (incluindo 505K descrições de capitais / regiões populosas), 490K em obras (incluindo 135K de álbuns musicais, 106K em filmes e 20K de vídeo games), 275K organizações (incluindo 67K em empresas e 53K instituições educacionais), 301K espécies e 5K em doenças. O número total de recursos da DBpedia Inglesa totaliza 16.9M, além de 6.0M em recursos, incluindo 1.7M conceitos skos (categorias), 7.3M páginas de redirecionamento, 260K páginas de desambiguação e 1.7M em nós intermediários.&lt;/p&gt;
+
+&lt;p&gt;No total, a DBpedia 2016-04 consiste em 9.5 bilhões (2015-10: 8.8 bilhões) de triplas dos quais 1.3 bilhões (2015-10: 1.1 bilhões) foram extraídas da versão inglesa da Wikipedia, 5.0 bilhões (2015-04: 4.4 bilhões) foram extraídos de outras edições do idioma e 3.2 bilhões (2015-10: 3.2 bilhões) da DBpedia Commons e da Wikidata. No geral, foi observado um crescimento dos mapeamentos de aproximadamente 2%.&lt;/p&gt;
+
+&lt;p&gt;As estatísticas completas podem ser encontradas no site da &lt;a href=&quot;http://wiki.dbpedia.org/dbpedia-2016-04-statistics&quot;&gt;DBpedia&lt;/a&gt;, sendo que as informações gerais dos datasets podem ser encontradas &lt;a href=&quot;http://wiki.dbpedia.org/services-resources/datasets/dbpedia-datasets&quot;&gt;aqui&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;comunidade&quot;&gt;Comunidade&lt;/h3&gt;
+
+&lt;p&gt;A comunidade DBpedia adicionou novas classes e propriedades a ontologia da DBpedia utilizando o mappings wiki. A DBpedia 2016-04 é compostas de:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;754 classes (DBpedia 2015-10: 739)&lt;/li&gt;
+  &lt;li&gt;1,103 object properties (DBpedia 2015-10: 1,099)&lt;/li&gt;
+  &lt;li&gt;1,608 datatype properties (DBpedia 2015-10: 1,596)&lt;/li&gt;
+  &lt;li&gt;132 specialized datatype properties (DBpedia 2015-10: 132)&lt;/li&gt;
+  &lt;li&gt;410 owl:equivalentClass e 221 owl:equivalentProperty em mapeamentos para vocabulários externos(DBpedia 2015-04: 407 - 221)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O trabalho realizado no mappings wiki definiu também muitos novos mapeamentos a partir dos templates Wikipedia para as classes DBpedia. Para esta extração, nós utilizamos um total de 5800 templates de mapeamento (DBpedia 2015-10: 5553). Pela segunda vez, o idioma que possui o maior número de mapeamentos é o Holandês com 646 mapeamentos, seguido pelo idioma inglês com 604 mapeamentos&lt;/p&gt;
+
+&lt;h3 id=&quot;agradecimentos&quot;&gt;Agradecimentos&lt;/h3&gt;
+
+&lt;p&gt;Markus Freudenberg (University of Leipzig / DBpedia Association) por estar a cargo de todo o processo de release e publicação da versão, bem como da página de estatísticas.&lt;/p&gt;
+
+&lt;p&gt;Dimitris Kontokostas (University of Leipzig / DBpedia Association) por transmitir seu considerável conhecimento no processo de extração e release&lt;/p&gt;
+
+&lt;p&gt;A todos os editores que contribuiram mapeando a ontologia da DBpedia via Mappings wiki.&lt;/p&gt;
+
+&lt;p&gt;Ao comitê de internacionalização da DBpedia por apoiar o processo&lt;/p&gt;
+
+&lt;p&gt;Heiko Paulheim (University of Mannheim) por fornecer o código necessário para gerar tipos adicionais aos recursos anteriormente sem tipos, identificando e removendo os incorretos que agora faz parte do DIEF.&lt;/p&gt;
+
+&lt;p&gt;Václav Zeman e todo o time do LHD (University of Prague) por sua contribuição na adição de tipos&lt;/p&gt;
+
+&lt;p&gt;Marco Fossati (FBK) por contribur com os tipos DBTax&lt;/p&gt;
+
+&lt;p&gt;Alan Meehan (TCD) por executar uma grande limpeza nos links externos.&lt;/p&gt;
+
+&lt;p&gt;Aldo Gangemi (Universidade LIPN , França &amp;amp; ISTC-CNR, Itália)  por fornecer os links do DOLCE para a ontologia da DBpedia.&lt;/p&gt;
+
+&lt;p&gt;Kingsley Idehen, Patrick van Kleef, e Mitko Iliev (OpenLink Software) por carregar todos os dados na instância do Virtuoso e prover os serviços para publicação de dados ligados e o endpoint para o SPARQL.&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&quot;http://www.openlinksw.com/&quot;&gt;OpenLink Software&lt;/a&gt; por prover os serviços SPARQL e a infraestrutura para publicar os dados ligados da DBpedia, além do contínuo suporte a infraestrutura.&lt;/p&gt;
+
+&lt;p&gt;Ruben Verborgh da Universidade de Ghent  – iMinds por publicar o dataset como Triple Pattern Fragments, e iMinds for financiar o DBpedia’s Triple Pattern Fragments server.&lt;/p&gt;
+
+&lt;p&gt;Ali Ismayilov (Universidade de Bonn)  por expandir o dataset  da DBpedia Wikidata.&lt;/p&gt;
+
+&lt;p&gt;Vladimir Alexiev (Ontotext) por liderar com sucesso o esforço de mapeamento e limpeza da ontologia.&lt;/p&gt;
+
+&lt;p&gt;A todos os estudates que participaram do GSoC e seus mentores que participaram direta ou indiretamente desta entrega.&lt;/p&gt;
+
+&lt;p&gt;Um agradecimento especial a todos os membros da DBpedia Association, ao AKSW e ao departamento de Business Information Systems da Universidade de Leipzig.&lt;/p&gt;
+
+&lt;p&gt;O trabalho da  DBpedia 2016-04 foi financeiramente suportado pela comissão Europeia através do projeto &lt;a href=&quot;http://aligned-project.eu/&quot;&gt;ALIGNED – quality-centric, software and data engineering&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Mais informações sobre a DBpedia podem ser encontradas no site &lt;a href=&quot;http://dbpedia.org&quot;&gt;http://dbpedia.org&lt;/a&gt;, bem como as publicações relacionadas ao projeto podem ser lidas &lt;a href=&quot;http://wiki.dbpedia.org/Publications&quot;&gt;http://wiki.dbpedia.org/Publications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Divirta-se e aproveite a DBpedia 2016-04!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 17 Oct 2016 20:51:00 -0200</pubDate>
+        <link>http://localhost:4000/releases/2016/10/17/dbpedia-2016-04.html</link>
+        <guid isPermaLink="true">http://localhost:4000/releases/2016/10/17/dbpedia-2016-04.html</guid>
+        
+        
+        <category>releases</category>
+        
+      </item>
+    
+      <item>
+        <title>Utilização de dados abertos como instrumentos de pesquisa para ações de Preservação Ambiental</title>
+        <description>&lt;p&gt;A utilização de recursos naturais tem sido um grande desafio para o século XXI. Como conciliar o desenvolvimento industrial com a utilização sustentável de recursos e reservas naturais? Uma boa saída para resolver esse dilema tem sido a utilização de dados como instrumento de pesquisas que apontem os problemas em números quantitativos, através da identificação, reunião, tratamento, análise e apresentação das informações, de forma a dinamizar e proporcionar de forma eficaz as ações de preservação sobre as áreas afetadas.&lt;/p&gt;
+
+&lt;p&gt;Quando se trata de meio-ambiente, existe ainda uma resistência de determinada parcela da população em assimilar a importância da utilização e coexistência com o mesmo, afim de garantir a nossa sobrevivência. Pensando nisso, cientistas do “Centro de Pesquisas sobre Decisões Ambientais do Instituto Terra”, da Universidade de Columbia em Nova York, disponibilizaram um guia para “Comunicação das Mudanças Climáticas”. O objetivo é ajudar a disseminar o uso de informações científicas, proporcionando novas metodologias de estudo para educadores e novas possibilidades de pesquisa para estudiosos do tema.&lt;/p&gt;
+
+&lt;p&gt;“Esperamos que os leitores usem as informações desse
+guia – em associação com as últimas novidades em ciências climáticas, engenharia, economia e políticas ambientais – para falar sobre mudanças climáticas de um
+jeito que leve seu público à ação. Garantir que as pessoas
+se sintam conectadas com as mudanças climáticas e desejem tomar atitudes para reduzir seus impactos, sem se sentirem sobrecarregadas pela escala desse problema, é primordial.” (p 49)&lt;/p&gt;
+
+&lt;p&gt;De forma didática e interdisciplinar, o guia visa atentar a população para a necessidade (e urgência) do tema, alertando como a não-preservação do meio-ambiente interfere de forma direta no equilíbrio natural do planeta.  O guia pode ser acesso através deste &lt;a href=&quot;https://goo.gl/TRLZ4j&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Oct 2016 22:25:00 -0300</pubDate>
+        <link>http://localhost:4000/conferencias/2016/10/13/meio_ambiente.html</link>
+        <guid isPermaLink="true">http://localhost:4000/conferencias/2016/10/13/meio_ambiente.html</guid>
+        
+        
+        <category>conferencias</category>
+        
+      </item>
+    
+      <item>
+        <title>Conferência: SEMANTiCS - Leipzig 2016</title>
+        <description>&lt;p&gt;A conferência anual sobre web semântica é o ponto de encontro para os profissionais discutirem seus benefícios, avanços e limitações.&lt;/p&gt;
+
+&lt;p&gt;Em 2016, a  SEMANTiCS irá ocorrer em Leipzig na Alemanha nos dias 12,13,14 e 15 de Setembro. 
+Para mais informações, acesse o link &lt;a href=&quot;http://2016.semantics.cc/&quot; target=&quot;_blank&quot;&gt;SEMANTiCS - Leipzig 2016&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 17 Apr 2016 13:32:00 -0300</pubDate>
+        <link>http://localhost:4000/conferencias/2016/04/17/semantics.html</link>
+        <guid isPermaLink="true">http://localhost:4000/conferencias/2016/04/17/semantics.html</guid>
+        
+        
+        <category>conferencias</category>
+        
+      </item>
+    
+      <item>
+        <title>Novo realease da DBpedia (2015-10) está disponível para download</title>
+        <description>&lt;p&gt;Temos orgulho em apresentar a nova versão da DBpedia: 2015-10. Ela está disponível agora no nosso triple store &lt;a href=&quot;http://dbpedia.org/sparql&quot; target=&quot;_blank&quot;&gt;http://dbpedia.org/sparql&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Esta versão da DBpedia é baseada nos dumps atualizados da Wikipedia do mês de outubro 2015. Ela contém uma base significativamente expandida de informações, bem como dados mais ricos e mais limpos na base de ontologia da DBpedia.&lt;/p&gt;
+
+&lt;h4 id=&quot;o-que-há-de-novo&quot;&gt;O que há de novo?&lt;/h4&gt;
+
+&lt;p&gt;A comunidade adicionou novas classes e propriedades a ontologia da DBpedia utilizando o mapping wiki. A versão DBpedia 2015-10 engloba&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;739 classes (DBpedia 2015-04: 735)&lt;/li&gt;
+  &lt;li&gt;1,099 object properties (DBpedia 2015-04: 1,098)&lt;/li&gt;
+  &lt;li&gt;1,596 datatype properties (DBpedia 2015-04: 1,583)&lt;/li&gt;
+  &lt;li&gt;132 datatype properties especializados (DBpedia 2015-04: 132)&lt;/li&gt;
+  &lt;li&gt;407 owl:equivalentClass e 222 owl:equivalentProperty mapeados de vocabulários externos  (DBpedia 2015-04: 408 and 200, respectivamente)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Os editores da comunidade definiram também novos mapeamentos a partir dos templates da Wikipedia e das classes  DBpedia. Para a versão DBpedia 2015-10, utilizou-se um total de 5553 mapeamentos de modelo (DBpedia 2015-04: 4317 mapeamentos). Pela primeira vez o idioma Inglês não figurou com o maior número de mapeamentos. O holandês com 606 mapeamentos, superou a comunidade Inglesa com 600 mapeamentos.&lt;/p&gt;
+
+&lt;h4 id=&quot;e-quais-são-as-principais-mudanças&quot;&gt;E quais são as principais mudanças?&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A DBpedia Inglesa passou a utilizar IRIs a partir das URIs.&lt;/li&gt;
+  &lt;li&gt;O dataset instance-types foi divido em dois arquivos:
+    &lt;ul&gt;
+      &lt;li&gt;“instance-types” contém somentes os tipos diretos.&lt;/li&gt;
+      &lt;li&gt;“Instance-types-transitive” contém os tipos transitivos.&lt;/li&gt;
+      &lt;li&gt;O arquivo “mappingbased-properties” foi dividido em três arquivos:
+        &lt;ul&gt;
+          &lt;li&gt;“geo-coordinates-mappingbased”&lt;/li&gt;
+          &lt;li&gt;“mappingbased-literals” contém os mapeamentos baseados em declarações com valores literais.&lt;/li&gt;
+          &lt;li&gt;“mappingbased-objects”&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Adicionou-se um novo extrator para citações.&lt;/li&gt;
+  &lt;li&gt;Todos os datasets estão disponíveis nos formatos .ttl e.tql&lt;/li&gt;
+  &lt;li&gt;A DBpedia agora é também distribuida via &lt;a href=&quot;https://github.com/dbpedia/Dockerized-DBpedia&quot; target=&quot;_blank&quot;&gt;Docker&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;A partir de agora, iremos fornecer um dataset com os metadados que conterá os DataIDs para todos os idiomas extraídos em suas respectivas pastas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Além disso, modificamos a tabela dos datasets na página de download. A mesma é criada dinamicamente com base na identificação dos dados de todas as línguas. Da mesma forma, as tabelas na página de Estatísticas, que agora são baseados em arquivos  e fornecem informações sobre todos os idiomas mapeados.&lt;/p&gt;
+
+&lt;p&gt;Vale ressaltar que nós iremos incluir o dump original Wikipedia (‘pages_articles.xml.bz2’) em conjunto com os dados extraídos. O &lt;a href=&quot;https://github.com/dbpedia/extraction-framework/compare/DBpedia_2015-04...master&quot; target=&quot;_blank&quot;&gt;changelog completo&lt;/a&gt; pode ser encontrado no git.&lt;/p&gt;
+
+&lt;h4 id=&quot;e-sobre-os-números-da-dbpedia&quot;&gt;E sobre os números da DBpedia?&lt;/h4&gt;
+&lt;p&gt;No total, a nova versão da DBpedia consite em 8.8 bilhões de triplas RDF ( a versão 2015-04 continha 6.9 bilhões), dos quais 1.1 bilhão (2015-04: 737 milhões) foram extraídas da edição Inglesa da Wikipedia, 4.4 bilhões (2015-04: 3.8 bilhões) foram extraídos de outros idiomas e 3.2 bilhões (2015-04: 2.4 bilhões) vieram do projeto DBpedia Commons e Wikidata. No geral, observou-se um crescimento de aproxidamente 10% de infoxboxes e declarações baseadas em mapeamentos.  Esta informação completa você pode encontrar na página de &lt;a href=&quot;http://wiki.dbpedia.org/services-resources/datasets/dataset-2015-10/dataset-2015-10-statistics&quot; target=&quot;_blank&quot;&gt;estatísticas (em inglês)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;e-o-que-está-por-vir&quot;&gt;E o que está por vir?&lt;/h4&gt;
+
+&lt;p&gt;Nós continuamos a trabalhar no mappings wiki e teremos pelo menos mais um sprint de mapemento este ano. Além disso, temos algumas novas idéias para o GSoC 2016. Novos mentores são sempre bem vindos! :-)&lt;/p&gt;
+
+&lt;h4 id=&quot;e-quem-contribuiu-para-esta-nova-versão&quot;&gt;E quem contribuiu para esta nova versão?&lt;/h4&gt;
+
+&lt;p&gt;Gostaríamos de agradecer a todos os editores de mapeamento que constribuiram via the Mappings Wiki, todos os estudantes que participaram do  GSoC e os mentores  que trabalharam direta ou indiretamente nesta nova versão da DBpedia release, além do comitê de internacionalização por promover a DBpedia.&lt;/p&gt;
+
+&lt;p&gt;Agradecemos especialmente ao Markus Freudenberg e Dimitris Kontokostas (Universidade de Leipzig), Volha Bryl (Universidade de Mannheim / Springer), Heiko Paulheim (Universidade de  Mannheim), Václav Zeman e todo o time do LHD (Universidade de  Prague), Marco Fossati (FBK), Alan Meehan (TCD), Aldo Gangemi (Universidade LIPN, França &amp;amp; ISTC-CNR, Itália), Kingsley Idehen, Patrick van Kleef, e Mitko Iliev &lt;a href=&quot;http://www.openlinksw.com/&quot; target=&quot;_blank&quot;&gt;OpenLink Software&lt;/a&gt;, Ruben Verborgh da Universidade de Ghent – iMinds, Ali Ismayilov (Universidade de Bonn), Vladimir Alexiev (Ontotext) e os membros da DBpedia Association, além do grupo AKSW e do departamento de Business Information Systems da Universidade de Leipzig por seu compromisso em investir tempo e esforço para obter este feito.&lt;/p&gt;
+
+&lt;p&gt;Todo o trabalho na versão  DBpedia 2015-10 foi financiado pela Comissão Européia através do projeto &lt;a href=&quot;http://aligned-project.eu/&quot; target=&quot;_blank&quot;&gt;ALIGNED – quality-centric, software and data engineering&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Informações detalhadas acerca da nova versão estão disponíveis &lt;a href=&quot;&quot;&gt;aqui&lt;/a&gt;. Para mais informações sobre a DBpedia, por favor, visite nosso &lt;a href=&quot;http://www.dbpedia.org&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt; ou nos acompanhe no &lt;a href=&quot;https://twitter.com/dbpedia&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt; ou &lt;a href=&quot;https://www.facebook.com/dbpedia.org/&quot; target=&quot;_blank&quot;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Atenciosamente,&lt;/p&gt;
+
+&lt;p&gt;DBpedia Association&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Apr 2016 09:40:00 -0300</pubDate>
+        <link>http://localhost:4000/releases/2016/04/01/new_release.html</link>
+        <guid isPermaLink="true">http://localhost:4000/releases/2016/04/01/new_release.html</guid>
+        
+        
+        <category>releases</category>
+        
+      </item>
+    
+      <item>
+        <title>DBpedia no Google Summer of Code 2016</title>
+        <description>&lt;p&gt;O GSoC está para começar e a DBpedia irá participar novamente no GSOC 2016. Então para os professores que tem projetos open source, e para os alunos que querem se ocupar no inverno e aprender mais enquanto recebem uma bolsa do Google, esta é a sua chance.&lt;/p&gt;
+
+&lt;p&gt;Para mais informações, acesse o link &lt;a href=&quot;http://wiki.dbpedia.org/gsoc2016&quot; target=&quot;_blank&quot;&gt;GSoC 2016&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 01 Mar 2016 11:44:06 -0300</pubDate>
+        <link>http://localhost:4000/gsoc2016/2016/03/01/gsoc.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gsoc2016/2016/03/01/gsoc.html</guid>
+        
+        
+        <category>GSoC2016</category>
+        
+      </item>
+    
+  </channel>
+</rss>
