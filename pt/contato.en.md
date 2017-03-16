@@ -2,9 +2,10 @@
 layout: page
 title: Contato
 permalink: /contato/
+lang: en
 ---
 
-## Contato
+## Contact
  
 
 {% include contato.html %}
