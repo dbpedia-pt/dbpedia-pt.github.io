@@ -5,7 +5,7 @@ layout: default
 	<div class="home">
 	   <div class="container main_slider">
 		   <div class="fluid_container">
-			   <div id="bannerindex"><img src="img/dbpedia_plain.png" class="banner-home" /></div>
+			   <div id="bannerindex"><img src="/img/dbpedia_plain.png" class="banner-home" /></div>
 			   <a href="http://wiki.dbpedia.org/why-is-dbpedia-so-important"><img alt="" src="/img/DBpedia_Community_Banner_420x85mm_20160616_L2.jpg"></a>
 		   </div>
 	<div class="breadcrumb_area">
@@ -34,11 +34,11 @@ layout: default
 							<center><hr class="border"/></center>
 						</div>
 					</div>
-					<div class="row ">
+					<div class="row">
 						<div class="col-md-10">
 							{% assign counter = 0 %}
-							{% for post in site.posts limit: 6 %}
-							   <div class="content-box col-md-6 col-xs-12">
+							{% for post in paginator.posts %}
+							   	<div class="content-box col-md-5 col-xs-12">
 									<div class="section_title2">
 										<h6>{{ post.date | date: "%b %-d, %Y" }}</h6>
 										<h2>{{ post.title }}</h2>
@@ -50,16 +50,31 @@ layout: default
 										<a class="btn-more" href="{{ post.url | prepend: site.baseurl }}">SAIBA MAIS</a>
 									</div>
 								</div> 
-								{% assign counter = counter | plus: 1 %}
+							     {% assign counter = counter | plus: 1 %}
 								{% if counter == 2 %} 
 									{% assign counter = 0 %}
 									 <div class="clearfix"></div>
-								{% endif %}  
+							    {% endif %}  
 							{% endfor %}
 						</div>
 						<div class="col-md-2">
 							<a class="twitter-timeline" href="https://twitter.com/DBpedia_pt" data-widget-id="723152685340364806">Tweets de @DBpedia_pt</a>
 							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+						</div>
+						<div class="row">
+							<div class="pagination">
+							  {% if paginator.previous_page %}
+							    <a href="{{ paginator.previous_page_path }}" class="previous">Anterior</a>
+							  {% else %}
+							    <span class="previous">Anterior</span>
+							  {% endif %}
+							  <span class="page_number ">Página: {{ paginator.page }} de {{ paginator.total_pages }}</span>
+							  {% if paginator.next_page %}
+							    <a href="{{ paginator.next_page_path }}" class="next">Próxima</a>
+							  {% else %}
+							    <span class="next">Próxima</span>
+							  {% endif %}
+							</div>
 						</div>
 					</div>
 				</div>

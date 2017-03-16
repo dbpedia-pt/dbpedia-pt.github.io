@@ -6,6 +6,11 @@ url: "http://pt-dbpedia.github.io/" # the base hostname & protocol for your site
 twitter_username: dbpedia_pt
 github_username:  dbpedia-pt
 
+gems: [jekyll-paginate]
+
+paginate: 6
+
+
 # Build settings
 markdown: kramdown
 layout: default
