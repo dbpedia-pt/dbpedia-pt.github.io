@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Lançamento da versão 2016-04 da DBpedia"
-date:   2016-10-17 19:51:00 -0300
+title:  "GSoC 2017 - DBpedia"
+date:   2017-03-22 11:03:00 -0300
 comments: true
-categories: releases
-resume: " A versão 2016-04 baseada nos dumps de Março/Abril de 2016 acaba de ser lançada[...]"
+categories: gsoc
+resume: " A DBpedia está participando pela quinta vez do programa Google Summer of Code (GSoC) e procuramos estudantes dispostos[...]"
 author: Gustavo Publio
 office: DBpedia Association - Alemanha
 lang: pt
