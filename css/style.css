@@ -27,6 +27,7 @@ a:focus {outline: 0px solid;text-decoration: none;}
 a:hover,.btn:hover,.btn:focus {text-decoration: none; }
 a,.menu li,.sub_menu,figcaption,.blog_text,figure.blog_item::after,figcaption ul.team_text li,figure.project_photo::before,ul.project_nav > li,.bottom_social li,#footermap,ul.post_social li a,a.th_bt {-webkit-transition: .5s;transition: .5s;}
 ul {list-style: none;padding: 0;margin: 0;}
+.content-intern ul {list-style: square;padding: 0;margin: 5px 0px 5px 40px;}
 textarea {border-style: none;border-color: Transparent;overflow: auto;height:130px !important;}
 .nav .open > a,.nav .open > a:focus,.nav .open > a:hover {background-color: transparent;}
 .nav > li > a:focus,.nav > li > a:hover {background-color: transparent;text-decoration: none;}
@@ -155,6 +156,22 @@ h6.post-title {font-size: 14px;font-weight: 700;margin-bottom: 1px;padding-top: 
 .form-control{margin-bottom: 26px;}
 .t_button{background: #004164;color: #fff;}
 .t_button:hover{background: #DABE00;}
+pre{
+    background-color: #F9F9F9;
+	border:none;
+    border-radius: 0px;
+    border-top: 2px solid #F0F0F0;
+    padding: 20px;
+
+	display: block;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #333;
+    word-break: break-all;
+    word-wrap: break-word;
+    
+}
 /* Tablet: 992px */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 .container {width: 970px;}
