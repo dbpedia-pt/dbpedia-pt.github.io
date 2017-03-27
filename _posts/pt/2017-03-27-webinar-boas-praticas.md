@@ -13,9 +13,9 @@ lang: pt
 
 Temos o prazer de convidá-las (os) para participar do Webinar Gratuito Boas Práticas para Publicação de Dados na Web.
 
-*Quando:* 30 de março
+**Quando:** 30 de março
 
-*Horário:* 11h horário de Brasília (14h UTC)
+**Horário:** 11h horário de Brasília (14h UTC)
 
 Como participar: [https://www.asist.org/events/webinars/webinar-boas-praticas-para-dados-na-web-desafios-e-beneficios/](https://www.asist.org/events/webinars/webinar-boas-praticas-para-dados-na-web-desafios-e-beneficios/)
 Clique no botão vermelho ao final, logo abaixo de "Registro e preços" e preencha o formulário para se registrar. É de graça!
