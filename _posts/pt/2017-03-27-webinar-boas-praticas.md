@@ -3,7 +3,7 @@ layout: post
 title:  "Divulgação - Webinar Gratuito Boas Práticas para Publicação de Dados na Web"
 date:   2017-03-27 17:01:00 -0300
 comments: true
-categories: gsoc
+categories: w3c
 resume: " Temos o prazer de convidá-las (os) para participar do Webinar Gratuito Boas Práticas para Publicação de Dados na Web[...]"
 author: Caroline Burle
 office: W3C Brasil e Centro de Estudos sobre Tecnologias Web
