@@ -13,7 +13,7 @@ lang: pt
 
 Temos o prazer de convidá-las (os) para participar do Webinar Gratuito Boas Práticas para Publicação de Dados na Web.
 
-**Quando:** 30 de março
+**Quando:** 30 de março de 2017
 
 **Horário:** 11h horário de Brasília (14h UTC)
 
