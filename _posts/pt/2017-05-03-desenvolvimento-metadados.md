@@ -12,11 +12,11 @@ lang: pt
 
  Temos o prazer de convidá-las (os) para participar do Webinar "Um método para o desenvolvimento de perfis de aplicação de metadados que acontecerá nas seguintes datas
  
- ** Webinar em Português ** 
+ **Webinar em Português** 
 
 Quarta-feira, 31 de Maio de 2017 10:00 AM – 11:15 AM EDT (UTC 14:00:00 – World Clock: http://bit.ly/2017Malta-PT)
 
-** Webinar in English ** 
+**Webinar in English** 
 
 Wednesday, 24 May 2017 10:00 AM – 11:15 AM EDT (UTC 14:00:00 – World Clock: http://bit.ly/2017Malta-EN)
 
