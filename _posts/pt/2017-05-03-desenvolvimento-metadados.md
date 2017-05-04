@@ -10,7 +10,8 @@ office: Dublin Core - Ibero-América
 lang: pt
 ---
 
- Temos o prazer de convidá-las (os) para participar do Webinar "Um método para o desenvolvimento de perfis de aplicação de metadados que acontecerá nas seguintes datas
+
+Temos o prazer de convidá-las (os) para participar do Webinar "Um método para o desenvolvimento de perfis de aplicação de metadados que acontecerá nas seguintes datas
  
  **Webinar em Português** 
 
