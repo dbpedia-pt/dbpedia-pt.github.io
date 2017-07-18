@@ -25,6 +25,9 @@ Temos um modesto projeto de disponibilizar a LOD inteira no KBox, na versão RDF
 Se você usa RDF ou qualquer dataset e quer usar o KBox na sua empresa/universidade ou se você gostou do projeto e quer ajudar,  entre em contato.
 
 um grande abraço,
+
 Edgard e KBox Team
+
 <emarx/>
+
 http://emarx.org
