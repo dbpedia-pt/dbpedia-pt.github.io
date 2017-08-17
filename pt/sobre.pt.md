@@ -21,13 +21,13 @@ lang: pt
 
 Nós já começamos os trabalhos, mas precisamos de ajuda. Por enquanto somos:
 
-* Pablo N. Mendes, IBM Research USA (anteriormente: Univ. Livre de Berlim) - Coordenação Geral
+* Pablo N. Mendes, IBM Research USA (anteriormente: Univ. Livre de Berlim) - Diretoria
 
-* Regis P. Magalhães, Univ. Fed. do Ceará (UFC) / Inst. Federal do Piauí - Coord. de Configuração
+* Diego Moussallem, Universidade de Leipzig - Coordenador Geral
+
+* Regis P. Magalhães, Univ. Fed. do Ceará (UFC) / Inst. Federal do Piauí - Coordenador de Configuração
 
 * Sandro Coelho, Univ. Fed. de Juiz de Fora (UFJF) - Desenvolvimento
-
-* Diego Moussallem, Universidade de Leipzig - Desenvolvimento
 
 * Prof. Maria Luiza M. Campos, Univ. Federal do Rio de Janeiro (UFRJ) - Orientação
 
