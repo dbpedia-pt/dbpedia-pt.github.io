@@ -23,9 +23,9 @@ Nós já começamos os trabalhos, mas precisamos de ajuda. Por enquanto somos:
 
 * Pablo N. Mendes, IBM Research USA (anteriormente: Univ. Livre de Berlim) - Diretoria
 
-* Diego Moussallem, Universidade de Leipzig - Coordenador Geral
+* Diego Moussallem, Universidade de Leipzig - Coordenação Geral
 
-* Regis P. Magalhães, Univ. Fed. do Ceará (UFC) / Inst. Federal do Piauí - Coordenador de Configuração
+* Regis P. Magalhães, Univ. Fed. do Ceará (UFC) / Inst. Federal do Piauí - Coordenação de Configuração
 
 * Sandro Coelho, Univ. Fed. de Juiz de Fora (UFJF) - Desenvolvimento
 
