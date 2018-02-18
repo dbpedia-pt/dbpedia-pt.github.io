@@ -44,7 +44,6 @@ Para o Virtuoso:
 
 Step-by-step:
 
-* [http://www.openlinksw.com/dataspace/dav/wiki/Main/VirtAWSDBpedia351C](http://www.openlinksw.com/dataspace/dav/wiki/Main/VirtAWSDBpedia351C){:target="_blank"}
 * [http://www.openlinksw.com/blog/~kidehen/?id=1654](http://www.openlinksw.com/blog/~kidehen/?id=1654){:target="_blank"}
 
 How Do I?
